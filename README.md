@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 ### Hello there 👋
-I am **Nicholas de Jong**, a middle school student.
+I am **Nicholas de Jong**, a highschool student.
 ### Hobbies & Interests
 - 📈Mathematics - especially geometry and algebra.
 - 💾Computer Sciences - Not the theory part, though (well, the networking seems alright).
