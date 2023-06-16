@@ -1,5 +1,5 @@
 ### Hello there 👋
-I am Nicholas de Jong; welcome to my GitHub profile. Discord: `Nickacide#7041`
+I am Nicholas de Jong; welcome to my GitHub profile. Discord: `@nickacide`
 ## Hobbies & Interests
 - 📈Mathematics
 - 💾Computer Science
